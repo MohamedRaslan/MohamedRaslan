@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td style='text-align:center; vertical-align:middle'>
-      <a href="https://github.com/MohamedRaslan/pytest-qatouch" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://d1myhw8pp24x4f.cloudfront.net/software_logo/1561530464023_b_52_mid.png" alt="bash" width="40" height="40"> Pytest QA Touch Plugin</a>
+      <a href="https://github.com/MohamedRaslan/pytest-qatouch" target="_blank" rel="noopener noreferrer"> <img align="center" src="./Assets/qatouch.png" alt="bash" width="40" height="40"> Pytest QA Touch Plugin</a>
       </td>
       <td>Pytest, Python</td>
       <td><a href="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&layout=compact&theme=github_dark&show_owner=true" target="_blank" rel="noopener noreferrer"><img float="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&layout=compact&theme=github_dark&show_owner=true" alt="pytest-qatouch Repo" /></a></td>
