@@ -5,12 +5,12 @@
 <div align="center" style="margin: 10px 0px">
 
   <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img float="left" alt="Explore Things" src="./Assets/ExploreThings.gif" width="100%" height="50%" /></a>
+    <img float="left" alt="Explore Things" src="./Assets/ExploreThings.gif" width="3840px" height="2160px" /></a>
 
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Raslan
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer"> <img float="left" alt="Raslan's Linkdein" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" /></a> <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E"><img float="left" alt="Raslan's Gmail" width="40px" src="https://img.icons8.com/color/344/gmail-new.png" />
+  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer"> <img float="left" alt="Raslan's Linkdein" width="40px" highr src="https://img.icons8.com/fluency/344/linkedin.png" /></a> <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E"><img float="left" alt="Raslan's Gmail" width="40px" src="https://img.icons8.com/color/344/gmail-new.png" />
   </a>
 </h1>
 
