@@ -14,23 +14,25 @@
   Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
 </p>
 
-<img align="right" width="54%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
+---
+
+<img align="right" width="55%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
 <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-  <img align="right" width="54%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
+  <img align="right" width="55%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
 </a>
 
 ### What I Do
 
-- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
-- Explore testing tools, AI-assisted ideas, DevOps practices, and automation patterns.
-- Build practical QA tools, examples, and playgrounds that make testing easier to learn and use.
+- Build quality workflows across web, desktop, APIs, and CI/CD.
+- Explore testing tools, AI ideas, DevOps, and automation patterns.
+- Build practical QA tools, examples, and playgrounds.
 
 ### Professional Highlights
 
-- Software testing across manual, API, automation, web, and desktop contexts.
+- Software testing across manual, API, automation, web, and desktop.
 - ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
 - Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch).
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical testing app.
 
 <br clear="right" />
 
