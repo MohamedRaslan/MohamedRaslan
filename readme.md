@@ -2,36 +2,28 @@
 ![GitHub stars](https://img.shields.io/github/stars/mohamedraslan?affiliations=OWNER%2CORGANIZATION_MEMBER&label=GitHub%20Stars&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohamedraslan?label=GitHub%20Followers&style=for-the-badge)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="44%" valign="middle">
-      <h1>Hi, I'm Mohamed Raslan</h1>
-      <p>
-        <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-          <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-          <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=flat-square&logo=readme&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
-      </p>
-    </td>
-    <td width="56%" valign="middle">
-      <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-        <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" width="52%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
+<a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+  <img align="right" width="52%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
+</a>
 
-<p align="center">
-  <img src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" width="100%" />
+<h2>Hi, I'm Mohamed Raslan</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer"><img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=flat&logo=readme&logoColor=white" /></a>
 </p>
+
+<p>
+  Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
+</p>
+
+- Testing across manual, API, automation, web, and desktop contexts.
+- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
+- Building practical QA tools and learning examples.
+
+<br clear="right" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -76,29 +68,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<details>
-<summary><b>What I Do & Highlights</b></summary>
-
-### What I Do
-
-- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
-- Explore new testing tools, AI-assisted ideas, DevOps practices, and practical automation patterns.
-- Build small tools, examples, and playgrounds that make testing easier to learn and use.
-
-### Professional Highlights
-
-- Software testing across manual, API, automation, web, and desktop contexts.
-- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
-- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
-- Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
-
-</details>
-
----
 
 ### Featured Work
 
