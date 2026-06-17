@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -37,6 +41,19 @@
 - Sharpening modern test automation architecture with Playwright, Cypress, Pytest, and CI pipelines.
 - Building practical QA tools and examples that help engineers learn by doing.
 - Improving test reporting, traceability, and quality visibility across the delivery cycle.
+
+---
+
+### Quality Engineering Lab
+
+This is the kind of work I want my profile to be known for: practical testing material that engineers can run, break, inspect, and learn from.
+
+| Lab Track | What belongs here | Status |
+| --- | --- | --- |
+| Bug playgrounds | Apps with realistic defects, edge cases, and debugging notes | Building |
+| Automation examples | Cypress, Pytest, Selenium, API tests, and CI examples | Expanding |
+| Test reporting | Result publishing, dashboards, traceability, and workflow integrations | Exploring |
+| DevOps for QA | GitHub Actions, Dockerized test runs, environment setup, and feedback loops | Improving |
 
 ---
 
@@ -78,6 +95,12 @@
 | [UTasks](https://github.com/TestMECA/UTasks) | React, JavaScript, Cypress, Firebase | A buggy Todoist-style practice app for learning testing, debugging, and automation with real-world UI behavior. |
 | [UR10 Pick And Place](https://github.com/MohamedRaslan/UR10PickAndPlace) | MATLAB, V-REP | My first GitHub project: a simple robotic arm pick-and-place simulation using a UR10 robot. |
 
+### Project Case Studies
+
+- [Pytest QA Touch Plugin](./case-studies/pytest-qatouch.md): connecting automated test results with test management.
+- [UTasks](./case-studies/utasks.md): a practical learning lab for UI testing and debugging.
+- [UR10 Pick And Place](./case-studies/ur10-pick-and-place.md): an early robotics simulation project that shows engineering range.
+
 <p>
   <a href="https://github.com/MohamedRaslan/pytest-qatouch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&theme=github_dark&show_owner=true" alt="Pytest QA Touch repository card" />
@@ -91,15 +114,31 @@
 
 ### GitHub Snapshot
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true" alt="Mohamed Raslan GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraslan&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=DD6346&dates=63AEDD&fire=DD9C4B" alt="Mohamed Raslan GitHub streak stats" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraslan&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=DD6346&dates=63AEDD&fire=DD9C4B&hide_border=true" alt="Mohamed Raslan GitHub streak stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8" alt="Mohamed Raslan top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedraslan&theme=onedark&no-frame=true&margin-w=8" alt="Mohamed Raslan GitHub trophies" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
 </p>
+
+---
+
+### Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+- Recent public activity will appear here after the workflow runs.
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+### Open To Collaborate On
+
+- Testing tools, plugins, and reporting workflows.
+- Practice apps for QA, debugging, and automation learning.
+- CI/CD pipelines that make test feedback faster and easier to trust.
+- Developer experience ideas around quality, reliability, and maintainability.
 
 ---
 
@@ -117,11 +156,9 @@ I enjoy meeting curious, humble people who like building, testing, sharing, and 
 </p>
 
 <!--
-Ideas to make this profile stand out even more:
+Next nice additions:
 
-1. Add a short animated terminal SVG that introduces your testing philosophy.
-2. Add a "Quality Engineering Lab" section linking to testing demos, sample bugs, and automation examples.
-3. Add 2-3 case-study style project READMEs with screenshots, architecture diagrams, and test reports.
-4. Add badges for certifications, conference talks, blog posts, or open-source packages if available.
-5. Add a GitHub Actions workflow that refreshes this README with recent activity, latest posts, or featured repositories.
+1. Add screenshots and demo GIFs for the featured projects.
+2. Add certification, talk, article, or package badges when available.
+3. Add a public test report artifact from one project CI pipeline.
 -->

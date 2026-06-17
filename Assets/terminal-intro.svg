@@ -1,0 +1,50 @@
+<svg width="960" height="260" viewBox="0 0 960 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Raslan terminal intro</title>
+  <desc id="desc">Animated terminal-style card describing Mohamed Raslan's quality engineering focus.</desc>
+  <style>
+    .window { fill: #0d1117; stroke: #30363d; stroke-width: 2; }
+    .bar { fill: #161b22; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .prompt { fill: #58a6ff; font: 600 18px Consolas, Monaco, monospace; }
+    .text { fill: #e6edf3; font: 18px Consolas, Monaco, monospace; }
+    .muted { fill: #8b949e; font: 16px Consolas, Monaco, monospace; }
+    .accent { fill: #3fb950; font: 600 18px Consolas, Monaco, monospace; }
+    .cursor { fill: #e6edf3; animation: blink 1s steps(1) infinite; }
+    .line1 { opacity: 0; animation: show 0.2s linear 0.2s forwards; }
+    .line2 { opacity: 0; animation: show 0.2s linear 0.9s forwards; }
+    .line3 { opacity: 0; animation: show 0.2s linear 1.6s forwards; }
+    .line4 { opacity: 0; animation: show 0.2s linear 2.3s forwards; }
+    .line5 { opacity: 0; animation: show 0.2s linear 3s forwards; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes show { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="958" height="258" rx="14" class="window"/>
+  <rect x="1" y="1" width="958" height="42" rx="14" class="bar"/>
+  <circle cx="30" cy="22" r="7" class="dot-red"/>
+  <circle cx="54" cy="22" r="7" class="dot-yellow"/>
+  <circle cx="78" cy="22" r="7" class="dot-green"/>
+  <text x="110" y="28" class="muted">quality-engineering-lab --profile</text>
+
+  <g class="line1">
+    <text x="30" y="78" class="prompt">$</text>
+    <text x="58" y="78" class="text">whoami</text>
+  </g>
+  <g class="line2">
+    <text x="58" y="112" class="accent">Mohamed Raslan</text>
+    <text x="218" y="112" class="text">- Test Automation Engineer</text>
+  </g>
+  <g class="line3">
+    <text x="30" y="150" class="prompt">$</text>
+    <text x="58" y="150" class="text">focus --areas</text>
+  </g>
+  <g class="line4">
+    <text x="58" y="184" class="text">automation | quality tooling | CI/CD | test strategy | learning labs</text>
+  </g>
+  <g class="line5">
+    <text x="30" y="222" class="prompt">$</text>
+    <text x="58" y="222" class="text">ship confidence, not just code</text>
+    <rect x="390" y="205" width="11" height="22" class="cursor"/>
+  </g>
+</svg>
