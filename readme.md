@@ -2,26 +2,26 @@
 ![GitHub stars](https://img.shields.io/github/stars/mohamedraslan?affiliations=OWNER%2CORGANIZATION_MEMBER&label=GitHub%20Stars&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohamedraslan?label=GitHub%20Followers&style=for-the-badge)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="middle">
+    <td width="44%" valign="middle">
       <h1>Hi, I'm Mohamed Raslan</h1>
       <p>
-        Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and building tools that make quality easier to measure, improve, and trust.
-      </p>
-      <p>
         <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
         </a>
         <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-          <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+          <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
         </a>
         <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-          <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
+          <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=flat-square&logo=readme&logoColor=white" />
         </a>
       </p>
+      <p>
+        Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
+      </p>
     </td>
-    <td width="50%" valign="middle">
+    <td width="56%" valign="middle">
       <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
         <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
       </a>
