@@ -30,34 +30,6 @@
   </a>
 </p>
 
----
-
-<details>
-<summary><b>What I Do & Highlights</b></summary>
-
-### What I Do
-
-- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
-- Explore new testing tools, AI-assisted ideas, DevOps practices, and practical automation patterns.
-- Build small tools, examples, and playgrounds that make testing easier to learn and use.
-
-### Professional Highlights
-
-- Software testing across manual, API, automation, web, and desktop contexts.
-- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
-- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
-- Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
-
-</details>
-
----
-
-<details>
-<summary><b>Toolbox</b></summary>
-
-### Toolbox
-
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -89,12 +61,28 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-</details>
-
 ---
 
 <details>
-<summary><b>Featured Work</b></summary>
+<summary><b>What I Do & Highlights</b></summary>
+
+### What I Do
+
+- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
+- Explore new testing tools, AI-assisted ideas, DevOps practices, and practical automation patterns.
+- Build small tools, examples, and playgrounds that make testing easier to learn and use.
+
+### Professional Highlights
+
+- Software testing across manual, API, automation, web, and desktop contexts.
+- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
+- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
+- Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
+
+</details>
+
+---
 
 ### Featured Work
 
@@ -116,18 +104,7 @@
   </a>
 </p>
 
-| Project | Notes |
-| --- | --- |
-| [pytest-qatouch](./case-studies/pytest-qatouch.md) | Pytest plugin for publishing automated test results to QA Touch. |
-| [UTasks](./case-studies/utasks.md) | Practice app for testing, debugging, and automation examples. |
-| [UR10 Pick And Place](./case-studies/ur10-pick-and-place.md) | Early robotics simulation project using a UR10 robot. |
-
-</details>
-
 ---
-
-<details>
-<summary><b>GitHub Snapshot</b></summary>
 
 ### GitHub Snapshot
 
@@ -141,42 +118,3 @@
     </td>
   </tr>
 </table>
-
-</details>
-
----
-
-<details>
-<summary><b>Interests</b></summary>
-
-### Interests
-
-- Testing tools, automation ideas, QA learning projects, CI/CD, DevOps, robotics, and developer experience.
-
-</details>
-
----
-
-### Let's Connect
-
-I enjoy meeting curious, humble people who like building, testing, sharing, and improving things. If you are working on testing, automation, DevOps, QA tooling, robotics, or developer experience, I would be happy to connect.
-
-<p>
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-    <img alt="Email" src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-    <img alt="Cake resume" src="https://img.shields.io/badge/View%20Resume%20on%20Cake-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
-
-<!--
-Next nice additions:
-
-1. Add screenshots and demo GIFs for the featured projects.
-2. Add certification, talk, article, or package badges when available.
-3. Add a public test report artifact from one project CI pipeline.
--->
