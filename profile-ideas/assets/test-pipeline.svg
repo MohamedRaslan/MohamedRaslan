@@ -1,0 +1,33 @@
+<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated test pipeline</title>
+  <desc id="desc">An animated test pipeline from spec to report.</desc>
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2; }
+    .line { stroke: #30363d; stroke-width: 4; }
+    .node { fill: #161b22; stroke: #58a6ff; stroke-width: 2; }
+    .active { fill: #3fb950; animation: move 5s linear infinite; }
+    .label { fill: #e6edf3; font: 700 16px Consolas, monospace; text-anchor: middle; }
+    .title { fill: #58a6ff; font: 700 26px Segoe UI, Arial, sans-serif; }
+    @keyframes move {
+      0% { transform: translateX(0); }
+      20% { transform: translateX(170px); }
+      40% { transform: translateX(340px); }
+      60% { transform: translateX(510px); }
+      80%, 100% { transform: translateX(680px); }
+    }
+  </style>
+  <rect x="1" y="1" width="958" height="218" rx="14" class="bg"/>
+  <text x="42" y="52" class="title">Automation pipeline</text>
+  <line x1="140" y1="124" x2="820" y2="124" class="line"/>
+  <circle cx="140" cy="124" r="34" class="node"/>
+  <circle cx="310" cy="124" r="34" class="node"/>
+  <circle cx="480" cy="124" r="34" class="node"/>
+  <circle cx="650" cy="124" r="34" class="node"/>
+  <circle cx="820" cy="124" r="34" class="node"/>
+  <circle cx="140" cy="124" r="11" class="active"/>
+  <text x="140" y="180" class="label">SPEC</text>
+  <text x="310" y="180" class="label">TEST</text>
+  <text x="480" y="180" class="label">CI</text>
+  <text x="650" y="180" class="label">REPORT</text>
+  <text x="820" y="180" class="label">FIX</text>
+</svg>
