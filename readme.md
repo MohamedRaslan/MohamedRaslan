@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Mohamed Raslan</h1>
 
 <p align="center">
-  Software Test Automation Engineer and acting Testing Team Lead at Atomica AI, focused on reliable software, practical DevOps, and building tools that make quality easier to measure, improve, and trust.
+  Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and building tools that make quality easier to measure, improve, and trust.
 </p>
 
 <p align="center">
@@ -35,38 +35,23 @@
 ### What I Do
 
 - Build end-to-end, integration, and API test automation that helps teams ship with confidence.
-- Lead testing processes across web and desktop products, from planning to release confidence.
-- Design testing playgrounds, sample apps, and intentionally buggy projects for practice and learning.
-- Connect testing workflows with CI/CD, reporting, and developer-friendly feedback loops.
+- Work across web, desktop, API, and CI/CD testing workflows.
+- Build practical tools, examples, and testing playgrounds for learning and experimentation.
 - Explore useful ideas across automation, DevOps, robotics, cloud, and product quality.
 
 ### Current Focus
 
-- Sharpening modern test automation architecture with Playwright, Cypress, Pytest, and CI pipelines.
-- Building practical QA tools and examples that help engineers learn by doing.
-- Improving test reporting, traceability, and quality visibility across the delivery cycle.
-- Creating clearer bridges between automated test runs, test management, and team-level quality decisions.
+- Modern test automation architecture.
+- Practical QA tools and learning examples.
+- Test reporting, traceability, and quality visibility.
 
 ### Professional Highlights
 
-- Software testing experience across manual testing, API testing, automation, web apps, and desktop apps.
+- Software testing across manual, API, automation, web, and desktop contexts.
 - ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
-- Experience coordinating testing work across web and desktop products.
 - Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a deliberately practical app for learning UI testing and debugging.
-- Experienced with hiring, onboarding, training, test planning, automation strategy, and CI/CD pipelines.
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
 - Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
-- Resume profile available on [Cake](https://www.cake.me/mohamedRaslan).
-
-### Experience Snapshot
-
-| Area | Hands-on experience |
-| --- | --- |
-| Leadership | Testing team leadership, candidate interviews, technical tests, onboarding, and training |
-| Automation | Cypress, Pytest, Selenium, automation frameworks, scripting, and test reporting |
-| Product Quality | Manual testing, API testing, desktop testing, web testing, bug investigation, and release support |
-| DevOps | GitHub Actions, CI/CD pipelines, AWS exposure, CircleCI, Jenkins, and deployment awareness |
-| Domains | Dentistry software, medical software, web apps, desktop apps, mobile/web freelance testing |
 
 ---
 
@@ -147,10 +132,7 @@ This is the kind of work I want my profile to be known for: practical testing ma
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
 </p>
 
 ---
