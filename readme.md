@@ -2,16 +2,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/mohamedraslan?affiliations=OWNER%2CORGANIZATION_MEMBER&label=GitHub%20Stars&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohamedraslan?label=GitHub%20Followers&style=for-the-badge)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
-  </a>
-</p>
-
 <h1 align="center">Hi, I'm Mohamed Raslan</h1>
 
 <p align="center">
-  Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and building tools that make quality easier to measure, improve, and trust.
+  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer"><img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=flat-square&logo=readme&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -19,38 +15,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-    <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+  <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
+</a>
 </p>
 
----
-
-### What I Do
-
-- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
-- Explore new testing tools, AI-assisted ideas, DevOps practices, and practical automation patterns.
-- Build small tools, examples, and playgrounds that make testing easier to learn and use.
-
-### Professional Highlights
-
-- Software testing across manual, API, automation, web, and desktop contexts.
-- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
-- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
-- Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
-
----
-
-### Toolbox
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -83,18 +53,6 @@
 
 ---
 
-### Featured Work
-
-| Project | Stack | Notes |
-| --- | --- | --- |
-| <a href="https://github.com/MohamedRaslan/pytest-qatouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&theme=github_dark&show_owner=true" alt="Pytest QA Touch repository card" /></a> | Python, Pytest | Pytest plugin for publishing automated test results to QA Touch. [Notes](./case-studies/pytest-qatouch.md) |
-| <a href="https://github.com/TestMECA/UTasks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TestMECA&repo=UTasks&theme=github_dark&show_owner=true" alt="UTasks repository card" /></a> | React, JavaScript, Cypress, Firebase | Practice app for testing, debugging, and automation examples. [Notes](./case-studies/utasks.md) |
-| [UR10 Pick And Place](https://github.com/MohamedRaslan/UR10PickAndPlace) | MATLAB, V-REP | Early robotics simulation project using a UR10 robot. [Notes](./case-studies/ur10-pick-and-place.md) |
-
----
-
-### GitHub Snapshot
-
 <table>
   <tr>
     <td width="50%">
@@ -106,46 +64,40 @@
   </tr>
 </table>
 
----
-
-### Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-- Merged pull request #1 in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Pushed 0 commits to [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Opened pull request #1 in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Created branch in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-<!--RECENT_ACTIVITY:end-->
-
----
-
-### Interests
-
-- Testing tools, automation ideas, QA learning projects, CI/CD, DevOps, robotics, and developer experience.
-
----
-
-### Let's Connect
-
-I enjoy meeting curious, humble people who like building, testing, sharing, and improving things. If you are working on testing, automation, DevOps, QA tooling, robotics, or developer experience, I would be happy to connect.
+### Featured Work
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-    <img alt="Email" src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-    <img alt="Cake resume" src="https://img.shields.io/badge/View%20Resume%20on%20Cake-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
+  <a href="https://github.com/MohamedRaslan/pytest-qatouch">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/pytest-qatouch&amp;mode=dark&amp;style=horizontal" alt="pytest-qatouch repository card" width="100%" />
   </a>
 </p>
 
-<!--
-Next nice additions:
+<p>
+  <a href="https://github.com/TestMECA/UTasks">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/TestMECA/UTasks&amp;mode=dark&amp;style=horizontal" alt="UTasks repository card" width="100%" />
+  </a>
+</p>
 
-1. Add screenshots and demo GIFs for the featured projects.
-2. Add certification, talk, article, or package badges when available.
-3. Add a public test report artifact from one project CI pipeline.
--->
+<p>
+  <a href="https://github.com/MohamedRaslan/UR10PickAndPlace">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/UR10PickAndPlace&amp;mode=dark&amp;style=horizontal" alt="UR10 Pick And Place repository card" width="100%" />
+  </a>
+</p>
+
+<details>
+<summary><b>What I Do & Highlights</b></summary>
+
+### What I Do
+
+- Build quality workflows across web, desktop, APIs, and CI/CD.
+- Explore testing tools, AI ideas, DevOps, and automation patterns.
+- Build practical QA tools, examples, and playgrounds.
+
+### Professional Highlights
+
+- Software testing across manual, API, automation, web, and desktop.
+- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
+- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch).
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical testing app.
+
+</details>
