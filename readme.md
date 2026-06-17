@@ -16,9 +16,9 @@
 
 ---
 
-<img align="right" width="60%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
+<img align="right" width="63%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
 <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-  <img align="right" width="60%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
+  <img align="right" width="63%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
 </a>
 
 ### What I Do
