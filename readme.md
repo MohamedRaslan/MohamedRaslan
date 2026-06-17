@@ -2,32 +2,35 @@
 ![GitHub stars](https://img.shields.io/github/stars/mohamedraslan?affiliations=OWNER%2CORGANIZATION_MEMBER&label=GitHub%20Stars&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohamedraslan?label=GitHub%20Followers&style=for-the-badge)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
-  </a>
-</p>
-
-<h1 align="center">Hi, I'm Mohamed Raslan</h1>
-
-<p align="center">
-  Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and building tools that make quality easier to measure, improve, and trust.
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <h1>Hi, I'm Mohamed Raslan</h1>
+      <p>
+        Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and building tools that make quality easier to measure, improve, and trust.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
+          <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
+          <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+        <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
-    <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
@@ -60,6 +63,19 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,16 +119,3 @@
     <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/UR10PickAndPlace&amp;mode=dark&amp;style=horizontal" alt="UR10 Pick And Place repository card" width="100%" />
   </a>
 </p>
-
----
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
-    </td>
-  </tr>
-</table>
