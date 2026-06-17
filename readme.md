@@ -11,30 +11,14 @@
 </p>
 
 <p align="center">
-  Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
+  <img src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" width="100%" />
 </p>
 
----
-
-<img align="right" width="63%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
+<p align="center">
 <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-  <img align="right" width="63%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
+  <img src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" width="100%" />
 </a>
-
-### What I Do
-
-- Build quality workflows across web, desktop, APIs, and CI/CD.
-- Explore testing tools, AI ideas, DevOps, and automation patterns.
-- Build practical QA tools, examples, and playgrounds.
-
-### Professional Highlights
-
-- Software testing across manual, API, automation, web, and desktop.
-- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
-- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch).
-- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical testing app.
-
-<br clear="right" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -99,3 +83,21 @@
     <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/UR10PickAndPlace&amp;mode=dark&amp;style=horizontal" alt="UR10 Pick And Place repository card" width="100%" />
   </a>
 </p>
+
+<details>
+<summary><b>What I Do & Highlights</b></summary>
+
+### What I Do
+
+- Build quality workflows across web, desktop, APIs, and CI/CD.
+- Explore testing tools, AI ideas, DevOps, and automation patterns.
+- Build practical QA tools, examples, and playgrounds.
+
+### Professional Highlights
+
+- Software testing across manual, API, automation, web, and desktop.
+- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
+- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch).
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical testing app.
+
+</details>
