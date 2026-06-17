@@ -108,18 +108,6 @@
 
 ---
 
-### Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-- Merged pull request #1 in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Pushed 0 commits to [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Opened pull request #1 in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Created branch in [MohamedRaslan/MohamedRaslan](https://github.com/MohamedRaslan/MohamedRaslan)
-- Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-<!--RECENT_ACTIVITY:end-->
-
----
-
 ### Interests
 
 - Testing tools, automation ideas, QA learning projects, CI/CD, DevOps, robotics, and developer experience.
