@@ -2,22 +2,22 @@
 ![GitHub stars](https://img.shields.io/github/stars/mohamedraslan?affiliations=OWNER%2CORGANIZATION_MEMBER&label=GitHub%20Stars&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mohamedraslan?label=GitHub%20Followers&style=for-the-badge)
 
-<img align="right" width="49%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
-<a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
-  <img align="right" width="49%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
-</a>
+<h1 align="center">Hi, I'm Mohamed Raslan</h1>
 
-<h1>Hi, I'm Mohamed Raslan</h1>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Raslan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer"><img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=flat-square&logo=readme&logoColor=white" /></a>
 </p>
 
-<p>
+<p align="center">
   Software Test Automation Engineer focused on reliable software, practical DevOps, test automation, and tools that make quality easier to measure, improve, and trust.
 </p>
+
+<img align="right" width="54%" src="./Assets/terminal-intro.svg" alt="Animated terminal intro for Mohamed Raslan" />
+<a href="https://www.linkedin.com/in/mohamedalyraslan/" target="_blank" rel="noopener noreferrer">
+  <img align="right" width="54%" src="./Assets/ExploreThings.gif" alt="Mohamed Raslan exploring technology and automation" />
+</a>
 
 ### What I Do
 
@@ -33,8 +33,6 @@
 - Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
 
 <br clear="right" />
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
