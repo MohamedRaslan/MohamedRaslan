@@ -34,16 +34,9 @@
 
 ### What I Do
 
-- Build end-to-end, integration, and API test automation that helps teams ship with confidence.
-- Work across web, desktop, API, and CI/CD testing workflows.
-- Build practical tools, examples, and testing playgrounds for learning and experimentation.
-- Explore useful ideas across automation, DevOps, robotics, cloud, and product quality.
-
-### Current Focus
-
-- Modern test automation architecture.
-- Practical QA tools and learning examples.
-- Test reporting, traceability, and quality visibility.
+- Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
+- Explore new testing tools, AI-assisted ideas, DevOps practices, and practical automation patterns.
+- Build small tools, examples, and playgrounds that make testing easier to learn and use.
 
 ### Professional Highlights
 
@@ -52,19 +45,6 @@
 - Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
 - Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
 - Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
-
----
-
-### Quality Engineering Lab
-
-This is the kind of work I want my profile to be known for: practical testing material that engineers can run, break, inspect, and learn from.
-
-| Lab Track | What belongs here | Status |
-| --- | --- | --- |
-| Bug playgrounds | Apps with realistic defects, edge cases, and debugging notes | Building |
-| Automation examples | Cypress, Pytest, Selenium, API tests, and CI examples | Expanding |
-| Test reporting | Result publishing, dashboards, traceability, and workflow integrations | Exploring |
-| DevOps for QA | GitHub Actions, Dockerized test runs, environment setup, and feedback loops | Improving |
 
 ---
 
@@ -105,35 +85,26 @@ This is the kind of work I want my profile to be known for: practical testing ma
 
 ### Featured Work
 
-| Project | Stack | Why it matters |
+| Project | Stack | Notes |
 | --- | --- | --- |
-| [Pytest QA Touch Plugin](https://github.com/MohamedRaslan/pytest-qatouch) | Python, Pytest | Uploads Pytest results into QA Touch test runs, making automated test execution easier to connect with test management. |
-| [UTasks](https://github.com/TestMECA/UTasks) | React, JavaScript, Cypress, Firebase | A buggy Todoist-style practice app for learning testing, debugging, and automation with real-world UI behavior. |
-| [UR10 Pick And Place](https://github.com/MohamedRaslan/UR10PickAndPlace) | MATLAB, V-REP | My first GitHub project: a simple robotic arm pick-and-place simulation using a UR10 robot. |
-
-### Project Case Studies
-
-- [Pytest QA Touch Plugin](./case-studies/pytest-qatouch.md): connecting automated test results with test management.
-- [UTasks](./case-studies/utasks.md): a practical learning lab for UI testing and debugging.
-- [UR10 Pick And Place](./case-studies/ur10-pick-and-place.md): an early robotics simulation project that shows engineering range.
-
-<p>
-  <a href="https://github.com/MohamedRaslan/pytest-qatouch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&theme=github_dark&show_owner=true" alt="Pytest QA Touch repository card" />
-  </a>
-  <a href="https://github.com/TestMECA/UTasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TestMECA&repo=UTasks&theme=github_dark&show_owner=true" alt="UTasks repository card" />
-  </a>
-</p>
+| <a href="https://github.com/MohamedRaslan/pytest-qatouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&theme=github_dark&show_owner=true" alt="Pytest QA Touch repository card" /></a> | Python, Pytest | Pytest plugin for publishing automated test results to QA Touch. [Notes](./case-studies/pytest-qatouch.md) |
+| <a href="https://github.com/TestMECA/UTasks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TestMECA&repo=UTasks&theme=github_dark&show_owner=true" alt="UTasks repository card" /></a> | React, JavaScript, Cypress, Firebase | Practice app for testing, debugging, and automation examples. [Notes](./case-studies/utasks.md) |
+| [UR10 Pick And Place](https://github.com/MohamedRaslan/UR10PickAndPlace) | MATLAB, V-REP | Early robotics simulation project using a UR10 robot. [Notes](./case-studies/ur10-pick-and-place.md) |
 
 ---
 
 ### GitHub Snapshot
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -145,12 +116,9 @@ This is the kind of work I want my profile to be known for: practical testing ma
 
 ---
 
-### Open To Collaborate On
+### Interests
 
-- Testing tools, plugins, and reporting workflows.
-- Practice apps for QA, debugging, and automation learning.
-- CI/CD pipelines that make test feedback faster and easier to trust.
-- Developer experience ideas around quality, reliability, and maintainability.
+- Testing tools, automation ideas, QA learning projects, CI/CD, DevOps, robotics, and developer experience.
 
 ---
 
