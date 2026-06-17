@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Mohamed Raslan</h1>
 
 <p align="center">
-  Test Automation Engineer focused on reliable software, practical DevOps, and building tools that make quality easier to measure, improve, and trust.
+  Software Test Automation Engineer and acting Testing Team Lead at Atomica AI, focused on reliable software, practical DevOps, and building tools that make quality easier to measure, improve, and trust.
 </p>
 
 <p align="center">
@@ -25,6 +25,9 @@
   <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
+    <img alt="Cake resume" src="https://img.shields.io/badge/Cake-Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -32,6 +35,7 @@
 ### What I Do
 
 - Build end-to-end, integration, and API test automation that helps teams ship with confidence.
+- Lead testing processes across web and desktop products, from planning to release confidence.
 - Design testing playgrounds, sample apps, and intentionally buggy projects for practice and learning.
 - Connect testing workflows with CI/CD, reporting, and developer-friendly feedback loops.
 - Explore useful ideas across automation, DevOps, robotics, cloud, and product quality.
@@ -41,6 +45,28 @@
 - Sharpening modern test automation architecture with Playwright, Cypress, Pytest, and CI pipelines.
 - Building practical QA tools and examples that help engineers learn by doing.
 - Improving test reporting, traceability, and quality visibility across the delivery cycle.
+- Creating clearer bridges between automated test runs, test management, and team-level quality decisions.
+
+### Professional Highlights
+
+- Software testing experience across manual testing, API testing, automation, web apps, and desktop apps.
+- ISTQB certified: CTFL, CTFL-AT, and CTFL-MAT.
+- Experience coordinating testing work across web and desktop products.
+- Open-source maintainer of [pytest-qatouch](https://github.com/MohamedRaslan/pytest-qatouch), a Pytest plugin for publishing test results to QA Touch.
+- Builder of [UTasks](https://github.com/TestMECA/UTasks), a deliberately practical app for learning UI testing and debugging.
+- Experienced with hiring, onboarding, training, test planning, automation strategy, and CI/CD pipelines.
+- Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
+- Resume profile available on [Cake](https://www.cake.me/mohamedRaslan).
+
+### Experience Snapshot
+
+| Area | Hands-on experience |
+| --- | --- |
+| Leadership | Testing team leadership, candidate interviews, technical tests, onboarding, and training |
+| Automation | Cypress, Pytest, Selenium, automation frameworks, scripting, and test reporting |
+| Product Quality | Manual testing, API testing, desktop testing, web testing, bug investigation, and release support |
+| DevOps | GitHub Actions, CI/CD pipelines, AWS exposure, CircleCI, Jenkins, and deployment awareness |
+| Domains | Dentistry software, medical software, web apps, desktop apps, mobile/web freelance testing |
 
 ---
 
@@ -63,6 +89,9 @@ This is the kind of work I want my profile to be known for: practical testing ma
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C and C++" />
+  <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML and Qt" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -72,6 +101,8 @@ This is the kind of work I want my profile to be known for: practical testing ma
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -116,11 +147,10 @@ This is the kind of work I want my profile to be known for: practical testing ma
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedraslan&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="Mohamed Raslan GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedraslan&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=DD6346&dates=63AEDD&fire=DD9C4B&hide_border=true" alt="Mohamed Raslan GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedraslan&exclude_repo=UR10PickAndPlace&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Mohamed Raslan top languages" />
 </p>
 
 ---
@@ -152,6 +182,9 @@ I enjoy meeting curious, humble people who like building, testing, sharing, and 
   </a>
   <a href="mailto:mohamedraslang@gmail.com?subject=%5BGitHub%5D%20Hello%20Mohamed">
     <img alt="Email" src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.cake.me/mohamedRaslan" target="_blank" rel="noopener noreferrer">
+    <img alt="Cake resume" src="https://img.shields.io/badge/View%20Resume%20on%20Cake-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
 

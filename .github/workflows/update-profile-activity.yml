@@ -2,8 +2,19 @@ name: Update profile activity
 
 on:
   schedule:
-    - cron: "17 5 */14 * *"
+    # Runs roughly every two weeks: on the 1st and 15th of each month at 05:17 UTC.
+    - cron: "17 5 1,15 * *"
   workflow_dispatch:
+    inputs:
+      max_events:
+        description: "Number of recent public activity items to show"
+        required: false
+        default: "5"
+      commit_changes:
+        description: "Commit README updates"
+        required: false
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -19,11 +30,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: MohamedRaslan
+          MAX_EVENTS: ${{ inputs.max_events || '5' }}
         run: |
           python .github/scripts/update_recent_activity.py
 
       - name: Commit README changes
+        env:
+          COMMIT_CHANGES: ${{ inputs.commit_changes || true }}
         run: |
+          if [ "$COMMIT_CHANGES" = "false" ]; then
+            echo "Manual dry run requested. README changes, if any, will not be committed."
+            git diff -- readme.md
+            exit 0
+          fi
           if git diff --quiet; then
             echo "No README changes to commit."
             exit 0

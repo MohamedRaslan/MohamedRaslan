@@ -6,6 +6,7 @@ import urllib.request
 
 USERNAME = os.environ.get("PROFILE_USER", "MohamedRaslan")
 README = "readme.md"
+MAX_EVENTS = int(os.environ.get("MAX_EVENTS", "5"))
 START = "<!--RECENT_ACTIVITY:start-->"
 END = "<!--RECENT_ACTIVITY:end-->"
 
@@ -75,7 +76,7 @@ def build_activity(events):
             continue
         seen.add(description)
         items.append(f"- {description}")
-        if len(items) == 5:
+        if len(items) == MAX_EVENTS:
             break
 
     if not items:
