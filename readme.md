@@ -32,6 +32,9 @@
 
 ---
 
+<details>
+<summary><b>What I Do & Highlights</b></summary>
+
 ### What I Do
 
 - Build test automation and quality workflows across web, desktop, APIs, and CI/CD.
@@ -46,7 +49,12 @@
 - Builder of [UTasks](https://github.com/TestMECA/UTasks), a practical app for learning UI testing and debugging.
 - Active across GitHub, LinkedIn, and testing communities including [uTest](https://www.utest.com/).
 
+</details>
+
 ---
+
+<details>
+<summary><b>Toolbox</b></summary>
 
 ### Toolbox
 
@@ -81,17 +89,45 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+</details>
+
 ---
+
+<details>
+<summary><b>Featured Work</b></summary>
 
 ### Featured Work
 
-| Project | Stack | Notes |
-| --- | --- | --- |
-| <a href="https://github.com/MohamedRaslan/pytest-qatouch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedraslan&repo=pytest-qatouch&theme=github_dark&show_owner=true" alt="Pytest QA Touch repository card" /></a> | Python, Pytest | Pytest plugin for publishing automated test results to QA Touch. [Notes](./case-studies/pytest-qatouch.md) |
-| <a href="https://github.com/TestMECA/UTasks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TestMECA&repo=UTasks&theme=github_dark&show_owner=true" alt="UTasks repository card" /></a> | React, JavaScript, Cypress, Firebase | Practice app for testing, debugging, and automation examples. [Notes](./case-studies/utasks.md) |
-| [UR10 Pick And Place](https://github.com/MohamedRaslan/UR10PickAndPlace) | MATLAB, V-REP | Early robotics simulation project using a UR10 robot. [Notes](./case-studies/ur10-pick-and-place.md) |
+<p>
+  <a href="https://github.com/MohamedRaslan/pytest-qatouch">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/pytest-qatouch&amp;mode=dark&amp;style=horizontal" alt="pytest-qatouch repository card" width="100%" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/TestMECA/UTasks">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/TestMECA/UTasks&amp;mode=dark&amp;style=horizontal" alt="UTasks repository card" width="100%" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/MohamedRaslan/UR10PickAndPlace">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/MohamedRaslan/UR10PickAndPlace&amp;mode=dark&amp;style=horizontal" alt="UR10 Pick And Place repository card" width="100%" />
+  </a>
+</p>
+
+| Project | Notes |
+| --- | --- |
+| [pytest-qatouch](./case-studies/pytest-qatouch.md) | Pytest plugin for publishing automated test results to QA Touch. |
+| [UTasks](./case-studies/utasks.md) | Practice app for testing, debugging, and automation examples. |
+| [UR10 Pick And Place](./case-studies/ur10-pick-and-place.md) | Early robotics simulation project using a UR10 robot. |
+
+</details>
 
 ---
+
+<details>
+<summary><b>GitHub Snapshot</b></summary>
 
 ### GitHub Snapshot
 
@@ -106,11 +142,18 @@
   </tr>
 </table>
 
+</details>
+
 ---
+
+<details>
+<summary><b>Interests</b></summary>
 
 ### Interests
 
 - Testing tools, automation ideas, QA learning projects, CI/CD, DevOps, robotics, and developer experience.
+
+</details>
 
 ---
 
